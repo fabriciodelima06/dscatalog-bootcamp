@@ -12,7 +12,7 @@ import com.devsuperior.dscatalog.entities.Category;
 import com.devsuperior.dscatalog.services.CategoryService;
 
 @RestController
-@RequestMapping(value = "/cotegories")
+@RequestMapping(value = "/categories")
 public class CategoryResource {
 	
 	@Autowired
